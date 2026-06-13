@@ -16,7 +16,8 @@
       "source": {
         "source": "git",
         "url": "https://github.com/jjm7271985/ship-it-mcp.git",
-        "ref": "master"
+        "ref": "master",
+        "sha": "b7b4f88c99206214ceca292c4733489755b740eb"
       }
     },
     {
@@ -28,7 +29,8 @@
       "source": {
         "source": "git",
         "url": "https://github.com/jjm7271985/turo-mcp.git",
-        "ref": "master"
+        "ref": "master",
+        "sha": "f76f8c2e8951dc59e7f96b7e76979cd1fd2ce870"
       }
     }
   ]
