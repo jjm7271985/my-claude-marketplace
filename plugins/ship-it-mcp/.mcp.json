@@ -1,0 +1,10 @@
+{
+  "ship-it": {
+    "type": "stdio",
+    "command": "C:\\Program Files\\nodejs\\node.exe",
+    "args": ["C:\\Users\\jjm72\\OneDrive\\Documents\\Claude_Plugins\\ship-it-mcp\\index.js"],
+    "env": {
+      "GITHUB_TOKEN": "${GITHUB_TOKEN}"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ship-it-mcp",
+  "version": "1.0.0",
+  "description": "GitHub MCP plugin — list repos, check git status, commit and push, manage PRs from Claude",
+  "author": {
+    "name": "jjm7271985",
+    "email": "jjm7271985@yahoo.com"
+  },
+  "repository": "https://github.com/jjm7271985/ship-it-mcp"
+}
