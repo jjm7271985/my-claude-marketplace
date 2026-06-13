@@ -1,4 +1,35 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "jjm7271985-plugins",
-  "description": "Personal Claude Code plugins by jjm7271985"
+  "description": "Personal Claude Code plugins — GitHub integration and Turo car rental management",
+  "owner": {
+    "name": "jjm7271985",
+    "email": "jjm7271985@yahoo.com"
+  },
+  "plugins": [
+    {
+      "name": "ship-it-mcp",
+      "description": "GitHub MCP plugin — list repos, check git status, commit and push, manage PRs from Claude",
+      "author": {
+        "name": "jjm7271985"
+      },
+      "source": {
+        "source": "git",
+        "url": "https://github.com/jjm7271985/ship-it-mcp.git",
+        "ref": "master"
+      }
+    },
+    {
+      "name": "turo-mcp",
+      "description": "Turo MCP plugin — pull bookings, calendar, earnings, and gap analysis via browser automation",
+      "author": {
+        "name": "jjm7271985"
+      },
+      "source": {
+        "source": "git",
+        "url": "https://github.com/jjm7271985/turo-mcp.git",
+        "ref": "master"
+      }
+    }
+  ]
 }
