@@ -14,10 +14,11 @@
         "name": "jjm7271985"
       },
       "source": {
-        "source": "git",
-        "url": "https://github.com/jjm7271985/ship-it-mcp.git",
+        "source": "git-subdir",
+        "url": "https://github.com/jjm7271985/my-claude-marketplace.git",
+        "path": "plugins/ship-it-mcp",
         "ref": "master",
-        "sha": "b7b4f88c99206214ceca292c4733489755b740eb"
+        "sha": "96bc8d444e560fe49d09730d2d60d099a4bb5698"
       }
     },
     {
@@ -27,10 +28,11 @@
         "name": "jjm7271985"
       },
       "source": {
-        "source": "git",
-        "url": "https://github.com/jjm7271985/turo-mcp.git",
+        "source": "git-subdir",
+        "url": "https://github.com/jjm7271985/my-claude-marketplace.git",
+        "path": "plugins/turo-mcp",
         "ref": "master",
-        "sha": "f76f8c2e8951dc59e7f96b7e76979cd1fd2ce870"
+        "sha": "96bc8d444e560fe49d09730d2d60d099a4bb5698"
       }
     }
   ]
